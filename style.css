@@ -1,10 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Slackey&display=swap');
+
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://i.chzbgr.com/full/6176302848/h7AB9E8A8/kfc-love-4eva");
+  background-size: 20%;
   text-align: center;
   margin: auto;
-   font-family: "Poetsen One", serif;
+  font-family: "Slackey", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: -1px -1px 0 #0c0200,1px -1px 0 #0c0200,-1px 1px 0 #000000,1px 1px 0 #000000;
 }
 
 h1{
